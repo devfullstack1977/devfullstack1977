@@ -76,3 +76,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/devfullstack1977/devfullstack1977/output/snake.svg" alt="Snake animation" />
+
+###
